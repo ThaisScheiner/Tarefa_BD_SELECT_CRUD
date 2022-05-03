@@ -2,10 +2,6 @@ CREATE DATABASE projeto
 go
 use projeto
 
-USE Locadora
-DROP DATABASE projeto
-
-
 CREATE TABLE users
 (
 	Id			int				not null			identity(1,1),
